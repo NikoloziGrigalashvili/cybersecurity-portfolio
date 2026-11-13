@@ -23,7 +23,9 @@ I am interested in network security, cloud/Linux security, security operations a
 
 ## About the evidence
 
-The linked PDFs are **public-sharing excerpts of coursework reports**, not production configurations. Submission coversheets and personal/student identifiers have been removed; potentially sensitive Azure account/network details and personal links were omitted. Network details are from a **Packet Tracer simulation**, not a live company. The original reports and any `.pkt`, scripts, notebooks or datasets are **not** included here. I have not claimed that code is available where only a report was supplied.
+The projects in this portfolio are based on practical cybersecurity coursework completed at TU Dublin. Each project includes supporting evidence such as technical reports, screenshots, configurations and test results where available.
+
+Sensitive information has been removed from the publicly shared materials. The network security project was completed in a simulated environment using Cisco Packet Tracer.
 
 ## Contact
 
