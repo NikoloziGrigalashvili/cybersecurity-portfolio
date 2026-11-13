@@ -28,6 +28,6 @@ The linked PDFs are **public-sharing excerpts of coursework reports**, not produ
 ## Contact
 
 - **Email:** [n.grigalashvili1309@gmail.com](mailto:n.grigalashvili1309@gmail.com)
-- **LinkedIn:** [Add my profile URL here](https://www.linkedin.com/) **(replace this placeholder with your real LinkedIn URL before publishing)**
+- **LinkedIn:** [https://www.linkedin.com/in/nikolozi-grigalashvili-a4a8b732b/](https://www.linkedin.com/)
 
 *Academic work. Project descriptions are based on the accompanying coursework reports; the results and limitations are presented as reported.*
