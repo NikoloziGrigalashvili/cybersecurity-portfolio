@@ -30,6 +30,6 @@ Sensitive information has been removed from the publicly shared materials. The n
 ## Contact
 
 - **Email:** [n.grigalashvili1309@gmail.com](mailto:n.grigalashvili1309@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/nikolozi-grigalashvili-a4a8b732b/](https://www.linkedin.com/)
+- **LinkedIn:** [https://www.linkedin.com/in/nikolozi-grigalashvili-a4a8b732b/](https://www.linkedin.com/in/nikolozi-grigalashvili-a4a8b732b/)
 
 *Academic work. Project descriptions are based on the accompanying coursework reports; the results and limitations are presented as reported.*
